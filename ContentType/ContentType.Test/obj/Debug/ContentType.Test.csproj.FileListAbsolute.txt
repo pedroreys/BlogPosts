@@ -1,0 +1,17 @@
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\ContentType.Test.dll
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\ContentType.Test.pdb
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\ContentType.dll
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\nunit.framework.dll
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\should.dll
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\StructureMap.dll
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\MvcContrib.dll
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\StructureMap.xml
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\ContentType.pdb
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\MvcContrib.xml
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\nunit.framework.xml
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\should.pdb
+C:\dev\blog\ContentType\ContentType.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\blog\ContentType\ContentType.Test\obj\Debug\ContentType.Test.dll
+C:\dev\blog\ContentType\ContentType.Test\obj\Debug\ContentType.Test.pdb
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\Rhino.Mocks.dll
+C:\dev\blog\ContentType\ContentType.Test\bin\Debug\Rhino.Mocks.xml

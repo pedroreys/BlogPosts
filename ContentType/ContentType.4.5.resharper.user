@@ -1,0 +1,143 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:TestBase.cs" caret="116" fromTop="6" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:NotAcceptedContentTypeHandlerTest.cs" caret="283" fromTop="10" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:HtmlHandlerTest.cs" caret="911" fromTop="36" />
+      <File id="751EE3B6-89BA-4A2D-8A78-E9983FC6C521/d:ContentTypeHandlers/f:NotAcceptedContentTypeResult.cs" caret="0" fromTop="0" />
+      <File id="751EE3B6-89BA-4A2D-8A78-E9983FC6C521/d:ContentTypeHandlers/f:NotAcceptedContentTypeHandler.cs" caret="0" fromTop="0" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:XmlHandlerTest.cs" caret="563" fromTop="21" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:HandlerTestBase.cs" caret="165" fromTop="8" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="910" fromTop="36" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:MvcMockHelpers.cs" caret="474" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="649" fromTop="22" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="334" fromTop="15" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="571" fromTop="19" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="569" fromTop="27" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="999" fromTop="33" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="436" fromTop="14" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="1893" fromTop="41" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="1878" fromTop="41" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="594" fromTop="18" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="304" fromTop="5" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="705" fromTop="21" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:HandlerTestBase.cs" caret="165" fromTop="8" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="921" fromTop="33" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="945" fromTop="15" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="1202" fromTop="24" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="1616" fromTop="39" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="1290" fromTop="26" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:Class1.cs" caret="910" fromTop="13" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:XmlHandlerTest.cs" caret="284" fromTop="11" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:XmlHandlerTest.cs" caret="914" fromTop="18" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:XmlHandlerTest.cs" caret="914" fromTop="20" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:XmlHandlerTest.cs" caret="914" fromTop="26" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:XmlHandlerTest.cs" caret="914" fromTop="35" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:XmlHandlerTest.cs" caret="914" fromTop="30" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:XmlHandlerTest.cs" caret="914" fromTop="12" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:HtmlHandlerTest.cs" caret="911" fromTop="42" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:HtmlHandlerTest.cs" caret="911" fromTop="15" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:HtmlHandlerTest.cs" caret="911" fromTop="22" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:HtmlHandlerTest.cs" caret="911" fromTop="13" />
+      <File id="F771A09D-006F-452F-8452-90619CCCD4FC/f:NotAcceptedContentTypeHandlerTest.cs" caret="282" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="void" priority="2" />
+      <Item value="as" priority="0" />
+      <Item value="JsonHandlerTest" priority="0" />
+      <Item value="AssertionHelper" priority="1" />
+      <Item value="var" priority="6" />
+      <Item value="new" priority="5" />
+      <Item value="public" priority="5" />
+      <Item value="class" priority="3" />
+      <Item value="HttpContextBase" priority="2" />
+      <Item value="StubHttpContext" priority="1" />
+      <Item value="contextBase" priority="1" />
+      <Item value="handler" priority="2" />
+      <Item value="result" priority="1" />
+      <Item value="Rhino" priority="0" />
+      <Item value="Mocks" priority="0" />
+      <Item value="MockRepository" priority="3" />
+      <Item value="x" priority="2" />
+      <Item value="private" priority="0" />
+      <Item value="_mocks" priority="1" />
+      <Item value="abstract" priority="0" />
+      <Item value="TestFixture" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="TagRenderMode" priority="0" />
+      <Item value="params" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="T" priority="0" />
+      <Item value="argumentsForConstructor" priority="0" />
+      <Item value="TestBase" priority="1" />
+      <Item value="Stub" priority="0" />
+      <Item value="HttpRequestBase" priority="0" />
+      <Item value="httpRequest" priority="1" />
+      <Item value="httpContext" priority="1" />
+      <Item value="JsonHandler" priority="2" />
+      <Item value="JsonResult" priority="0" />
+      <Item value="NameValueCollectionExtensions" priority="0" />
+      <Item value="header" priority="1" />
+      <Item value="HandleErrorInfo" priority="0" />
+      <Item value="SetUp" priority="0" />
+      <Item value="SetUpFixtureAttribute" priority="0" />
+      <Item value="SetUpFixture" priority="0" />
+      <Item value="HandlerTestBase" priority="0" />
+      <Item value="MvcContrib" priority="0" />
+      <Item value="ActionResults" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ContentType.Test.StubHttpContext">
+      <Item value="Request" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequestBase">
+      <Item value="Headers" priority="2" />
+      <Item value="Stub" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ContentType.ContentTypeHandlers.JsonHandler">
+      <Item value="ResultWith" priority="1" />
+      <Item value="CanHandle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ActionResult">
+      <Item value="ShouldBeType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateStub" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContextBase">
+      <Item value="Stub" priority="1" />
+      <Item value="Request" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.MockRepository">
+      <Item value="DynamicHttpContextBase" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Specialized.NameValueCollection">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Return" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ShouldBeTrue" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
