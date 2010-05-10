@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentType", "src\ContentType.csproj", "{751EE3B6-89BA-4A2D-8A78-E9983FC6C521}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentType.UI", "src\ContentType.UI\ContentType.UI.csproj", "{751EE3B6-89BA-4A2D-8A78-E9983FC6C521}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentType.Test", "ContentType.Test\ContentType.Test.csproj", "{F771A09D-006F-452F-8452-90619CCCD4FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentType.Test", "src\ContentType.Test\ContentType.Test.csproj", "{F771A09D-006F-452F-8452-90619CCCD4FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
